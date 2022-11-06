@@ -10,4 +10,4 @@ hero: /img/1.png
 |----------|-----|
 |a     a  b   b   |b|
 
-![](/img/1.png)
+$$\sqrt{x}=x^{\frac{1}{2}}$$
